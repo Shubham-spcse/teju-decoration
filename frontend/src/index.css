@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(to right, #f7f8fc, #eef1f5);
+}
+
+/* section spacing */
+section {
+  margin-top: 60px;
+}
+
+/* smooth scroll */
+html {
+  scroll-behavior: smooth;
+}
